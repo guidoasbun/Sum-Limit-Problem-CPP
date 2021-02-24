@@ -1,0 +1,3 @@
+C:\Users\guido\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Sum_Limit_Problem_CPP.dir/objects.a
+C:\PROGRA~1\MINGW-~1\mingw64\bin\ar.exe cr CMakeFiles\Sum_Limit_Problem_CPP.dir/objects.a @CMakeFiles\Sum_Limit_Problem_CPP.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Sum_Limit_Problem_CPP.dir/objects.a -Wl,--no-whole-archive  -o Sum_Limit_Problem_CPP.exe -Wl,--out-implib,libSum_Limit_Problem_CPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sum_Limit_Problem_CPP.dir\linklibs.rsp
